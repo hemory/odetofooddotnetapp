@@ -6,3 +6,12 @@ C:\Users\hphifer\source\repos\OdeToFood\OdeToFood.Data\obj\Debug\netstandard2.0\
 C:\Users\hphifer\source\repos\OdeToFood\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.AssemblyInfo.cs
 C:\Users\hphifer\source\repos\OdeToFood\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.dll
 C:\Users\hphifer\source\repos\OdeToFood\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.pdb
+C:\Users\Hemory\source\repos\OdeToFoood\odetofooddotnetapp\OdeToFood.Data\bin\Debug\netstandard2.0\OdeToFood.Data.deps.json
+C:\Users\Hemory\source\repos\OdeToFoood\odetofooddotnetapp\OdeToFood.Data\bin\Debug\netstandard2.0\OdeToFood.Data.dll
+C:\Users\Hemory\source\repos\OdeToFoood\odetofooddotnetapp\OdeToFood.Data\bin\Debug\netstandard2.0\OdeToFood.Data.pdb
+C:\Users\Hemory\source\repos\OdeToFoood\odetofooddotnetapp\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.csprojAssemblyReference.cache
+C:\Users\Hemory\source\repos\OdeToFoood\odetofooddotnetapp\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.csproj.CoreCompileInputs.cache
+C:\Users\Hemory\source\repos\OdeToFoood\odetofooddotnetapp\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.AssemblyInfoInputs.cache
+C:\Users\Hemory\source\repos\OdeToFoood\odetofooddotnetapp\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.AssemblyInfo.cs
+C:\Users\Hemory\source\repos\OdeToFoood\odetofooddotnetapp\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.dll
+C:\Users\Hemory\source\repos\OdeToFoood\odetofooddotnetapp\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.pdb
