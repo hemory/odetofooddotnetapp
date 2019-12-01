@@ -1,4 +1,6 @@
-﻿namespace OdeToFood.Data.Models
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace OdeToFood.Data.Models
 {
     public class Restaurant
     {
